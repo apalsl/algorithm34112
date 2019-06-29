@@ -29,8 +29,7 @@ public class Solution {
 				int diffDays = (int) (diff / (24 * 60 * 60 * 1000));
 				long result = diffDays+1;
 				
-				System.out.p
-				rintln(diffDays);
+//				rintln(diffDays);
 				System.out.println("#"+T+" " +result);
 			
 			
