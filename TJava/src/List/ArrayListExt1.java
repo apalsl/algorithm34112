@@ -52,6 +52,8 @@ public class ArrayListExt1 {
  		}); 
 		print(list1, list2);
 		
+		
+		
 		System.out.println("for¹® »èÁ¦");
 		for(int i= list2.size()-1; i>=0; i--) {
 			if (list1.contains(list2.get(i))) {
@@ -77,8 +79,6 @@ public class ArrayListExt1 {
 	});
 	
 	System.out.println("======================================");
-	
-	
 		
 	}
 
