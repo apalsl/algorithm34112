@@ -1,4 +1,6 @@
 /bin/
 /.settings/
-/.project/
-/.classpath/
+/META-INF/
+*.project
+*.classpath
+*.build.properties
